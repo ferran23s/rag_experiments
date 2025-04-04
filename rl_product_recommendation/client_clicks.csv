@@ -1,0 +1,38 @@
+id,date,item,category,price,brand,event
+1592,2025-03-01 09:47:23,t-shirt,casual,81,Brand D,click
+3985,2025-03-02 15:36:05,pants,outerwear,95,Brand E,click
+5370,2025-03-03 12:25:48,shoe,footwear,71,Brand B,click
+3901,2025-03-04 07:14:32,sweater,winter clothing,66,Brand C,click
+7750,2025-03-05 21:59:14,coat,outerwear,50,Brand A,click
+4021,2025-03-06 10:42:01,jeans,casual,85,Brand F,click
+6204,2025-03-07 18:33:26,shoe,footwear,71,Brand B,click
+5748,2025-03-08 04:51:52,t-shirt,casual,81,Brand D,click
+8652,2025-03-09 16:21:10,jeans,casual,85,Brand F,click
+1343,2025-03-10 11:03:43,pants,outerwear,95,Brand E,click
+9352,2025-03-11 14:14:25,coat,outerwear,50,Brand A,click
+3622,2025-03-12 09:11:04,sweater,winter clothing,66,Brand C,click
+7864,2025-03-13 22:22:56,shoe,footwear,71,Brand B,click
+1703,2025-03-14 17:58:30,pants,outerwear,95,Brand E,click
+2891,2025-03-15 05:49:11,sweater,winter clothing,66,Brand C,click
+2886,2025-03-16 08:35:44,shoe,footwear,71,Brand B,purchase
+1235,2025-03-17 13:47:09,pants,outerwear,95,Brand E,click
+8678,2025-03-18 19:56:12,jeans,casual,85,Brand F,click
+4637,2025-03-19 06:09:55,pants,outerwear,95,Brand E,purchase
+9822,2025-03-20 04:21:31,sweater,winter clothing,66,Brand C,click
+7970,2025-03-21 12:12:46,jeans,casual,85,Brand F,click
+4583,2025-03-22 16:37:59,coat,outerwear,50,Brand A,click
+1037,2025-03-23 10:04:03,t-shirt,casual,81,Brand D,click
+4772,2025-03-23 18:18:26,shoe,footwear,71,Brand B,click
+8155,2025-03-25 14:26:57,jeans,casual,85,Brand F,click
+9533,2025-03-25 22:42:10,shoe,footwear,71,Brand B,purchase
+1086,2025-03-27 17:54:41,pants,outerwear,95,Brand E,click
+9578,2025-03-28 09:08:55,jeans,casual,85,Brand F,click
+7539,2025-03-29 12:05:33,coat,outerwear,50,Brand A,purchase
+7214,2025-03-29 14:42:27,shoe,footwear,71,Brand B,click
+1237,2025-03-29 16:54:41,jeans,casual,85,Brand F,purchase
+2352,2025-03-29 19:09:53,pants,outerwear,95,Brand E,click
+7062,2025-03-29 21:42:13,sweater,winter clothing,66,Brand C,purchase
+6741,2025-03-30 04:31:24,shoe,footwear,71,Brand B,click
+6347,2025-03-30 10:57:37,coat,outerwear,50,Brand A,click
+1914,2025-03-30 12:46:12,t-shirt,casual,81,Brand D,purchase
+8549,2025-03-30 14:28:58,pants,outerwear,95,Brand E,click
